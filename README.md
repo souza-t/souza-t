@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋,</h1>
 <h3 align="center">I am a Full Stack Developer who lives in Netherlands, transitioning from an academic and practice 8 years career in Civil Law.</h3>
 
-- &#57615; I’m currently learning **React, Node.js, Express, Typescript, ES6.**
+- &#xe10f; I’m currently learning **React, Node.js, Express, Typescript, ES6.**
 
 - 📫 How to reach me **thlucioxi@gmail.com**
 
