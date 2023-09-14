@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋,</h1>
-<h3 align="center">I am a Full Stack Developer who lives in Netherlands, transitioning from an academic and practice 8 years career in Civil Law.</h3>
+<h3 align="center">I am a Full Stack Developer who lives in Netherlands, transitioning from an 8 years academic and practice career in Civil Law.</h3>
 
-- &#xe10f; I’m currently learning **React, Node.js, Express, Typescript, ES6.**
+- 💡 I’m currently learning **React, Node.js, Express, Typescript, ES6.**
 
-- 📫 How to reach me **thlucioxi@gmail.com**
+- ✉️ How to reach me **thlucioxi@gmail.com**
 
-- &#129345; Fun fact: **I love music**!
+- 🥁 Fun fact: **I love music**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
