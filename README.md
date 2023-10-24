@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋,</h1>
 <h3 align="center">I am a Full Stack Developer who lives in Netherlands, transitioning from an 8 years academic and practice career in Civil Law.</h3>
 
-- 💡 I’m currently learning **React, Typescript,and C#.**
+- 📚 I’m currently studing: **Introduction to Algorithms** (CORMEN, Thomas et al., MIT Press)
+
+- 💡 I’m currently learning **React, Typescript,and C#**
 
 - ✉️ How to reach me **thlucioxi@gmail.com**
-
-- 🥁 Fun fact: **I love music**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
